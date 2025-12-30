@@ -1,0 +1,40 @@
+{
+  "color": [
+    {
+      "name": "start_back",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "main_color",
+      "value": "#2A7AFD"
+    },
+    {
+      "name": "line_blue_color",
+      "value": "#18C4F1"
+    },
+    {
+      "name": "back_color",
+      "value": "#f5f5f5"
+    },
+    {
+      "name": "red_color",
+      "value": "#e03636"
+    },
+    {
+      "name": "color_line",
+      "value": "#ECECEC"
+    },
+    {
+      "name": "main_background",
+      "value": "#FAFAFA"
+    },
+    {
+      "name": "bar_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "org_color",
+      "value": "#FC8D5B"
+    }
+  ]
+}

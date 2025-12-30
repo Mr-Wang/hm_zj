@@ -1,0 +1,552 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "辽宁专家服务"
+    },
+    {
+      "name": "app_desc",
+      "value": "辽宁专家服务"
+    },
+    {
+      "name": "home",
+      "value": "首页"
+    },
+    {
+      "name": "study",
+      "value": "学习"
+    },
+    {
+      "name": "train",
+      "value": "培训"
+    },
+    {
+      "name": "exam",
+      "value": "考评"
+    },
+    {
+      "name": "mine",
+      "value": "我的"
+    },
+    {
+      "name": "my_title",
+      "value": "我的"
+    },
+    {
+      "name": "my_favorites",
+      "value": "我的收藏"
+    },
+    {
+      "name": "my_about_us",
+      "value": "关于我们"
+    },
+    {
+      "name": "my_feedback",
+      "value": "意见反馈"
+    },
+    {
+      "name": "my_help_center",
+      "value": "帮助中心"
+    },
+    {
+      "name": "my_version",
+      "value": "版本检查"
+    },
+    {
+      "name": "my_share",
+      "value": "分享给朋友"
+    },
+    {
+      "name": "my_settings",
+      "value": "设置"
+    },
+    {
+      "name": "my_logout",
+      "value": "退出登录"
+    },
+    {
+      "name": "my_nologin",
+      "value": "未登录"
+    },
+    {
+      "name": "my_logout_tips",
+      "value": "是否退出当前账号?"
+    },
+    {
+      "name": "welcome_login",
+      "value": "欢迎登录辽宁专家服务"
+    },
+    {
+      "name": "pls_user",
+      "value": "请输入用户名"
+    },
+    {
+      "name": "pls_pass",
+      "value": "请输入密码"
+    },
+    {
+      "name": "login_text",
+      "value": "登 录"
+    },
+    {
+      "name": "login_ing",
+      "value": "登录中..."
+    },
+    {
+      "name": "login_success",
+      "value": "登录成功"
+    },
+    {
+      "name": "no_user_tips",
+      "value": "没有账号？立即注册"
+    },
+    {
+      "name": "copy_right",
+      "value": "辽宁省发展和改革委员会主办"
+    },
+    {
+      "name": "pls_ver_code",
+      "value": "请输入验证码"
+    },
+    {
+      "name": "pls_read_agree",
+      "value": "请阅读并同意"
+    },
+    {
+      "name": "pls_read_tips",
+      "value": "请阅读并同意隐私政策与用户协议"
+    },
+    {
+      "name": "privacy_policy",
+      "value": "《隐私政策》"
+    },
+    {
+      "name": "and",
+      "value": "与"
+    },
+    {
+      "name": "user_agreement",
+      "value": "《用户协议》"
+    },
+    {
+      "name": "user_profile",
+      "value": "个人资料"
+    },
+    {
+      "name": "user_avatar",
+      "value": "头像"
+    },
+    {
+      "name": "user_name",
+      "value": "用户名称"
+    },
+    {
+      "name": "user_nickname",
+      "value": "用户昵称"
+    },
+    {
+      "name": "user_phone",
+      "value": "手机号码"
+    },
+    {
+      "name": "user_email",
+      "value": "电子邮箱"
+    },
+    {
+      "name": "user_gender",
+      "value": "性别"
+    },
+    {
+      "name": "user_department",
+      "value": "所属部门"
+    },
+    {
+      "name": "user_role",
+      "value": "所属角色"
+    },
+    {
+      "name": "user_create_time",
+      "value": "创建时间"
+    },
+    {
+      "name": "user_save",
+      "value": "保存"
+    },
+    {
+      "name": "gender_male",
+      "value": "男"
+    },
+    {
+      "name": "gender_female",
+      "value": "女"
+    },
+    {
+      "name": "about_version",
+      "value": "当前版本"
+    },
+    {
+      "name": "about_company",
+      "value": "鸿蒙开发者联盟社区"
+    },
+    {
+      "name": "about_slogan",
+      "value": "科技让生活更好"
+    },
+    {
+      "name": "about_desc",
+      "value": "鸿蒙开发者联盟，是一个致力于促进鸿蒙操作系统（HarmonyOS）生态系统发展的社区组织，主要任务包括促进开发者交流、提供技术支持、推广应用开发、组织培训与活动。通过这些工作，鸿蒙开发者联盟希望建立一个强大且可持续发展的生态系统，吸引更多的开发者参与进来，推动鸿蒙OS的广泛应用。鸿蒙开发者联盟的具体职能和活动包括：促进开发者交流、通过线上社区和论坛（如GitHub、Stack Overflow）以及线下活动（如技术沙龙、黑客马拉松、开发者大会），为开发者提供一个良好的交流环境，帮助他们相互学习、共同进步。提供技术支持：整理大量的技术文档和教程，提供在线支持和答疑服务，帮助开发者解决开发过程中遇到的各种问题。推广应用开发：与各大应用商店和分发渠道合作，帮助开发者将应用快速上线并推广给更多用户；通过市场营销和宣传活动，提升鸿蒙OS及其应用的知名度和用户接受度。此外，鸿蒙开发者联盟还提供全面的服务，包括开发工具（如DevEco Studio）、开发语言（如ArkTS）、UI开发框架（如ArkUI）、测试平台（如DevEco Testing）等，帮助开发者从设计、开发、测试到上架的全流程服务"
+    },
+    {
+      "name": "user_manage",
+      "value": "账号管理"
+    },
+    {
+      "name": "security_settings",
+      "value": "安全设置"
+    },
+    {
+      "name": "change_pass",
+      "value": "密码修改"
+    },
+    {
+      "name": "old_pass",
+      "value": "旧密码"
+    },
+    {
+      "name": "new_pass",
+      "value": "新密码"
+    },
+    {
+      "name": "confirm_pass",
+      "value": "确认密码"
+    },
+    {
+      "name": "pls_old_pass",
+      "value": "请填写旧密码"
+    },
+    {
+      "name": "pls_new_pass",
+      "value": "请填写新密码"
+    },
+    {
+      "name": "pls_confirm_pass",
+      "value": "请再次输入新密码"
+    },
+    {
+      "name": "confirm_change",
+      "value": "确认修改"
+    },
+    {
+      "name": "pass_tips",
+      "value": "注："
+    },
+    {
+      "name": "pass_rule1",
+      "value": "1.旧密码与新密码不能一致"
+    },
+    {
+      "name": "pass_rule2",
+      "value": "2.密码为6-15位数字、字母、符号组合"
+    },
+    {
+      "name": "edit_title",
+      "value": "编辑标题"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    },
+    {
+      "name": "confirm_delete_chat",
+      "value": "确认删除该会话?"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "confirm",
+      "value": "确定"
+    },
+    {
+      "name": "new_chat",
+      "value": "新会话"
+    },
+    {
+      "name": "search_placeholder",
+      "value": "搜索你感兴趣的内容"
+    },
+    {
+      "name": "Refreshing",
+      "value": "正在刷新请稍后..."
+    },
+    {
+      "name": "add_post",
+      "value": "发帖子"
+    },
+    {
+      "name": "add_video_post",
+      "value": "发视频帖子"
+    },
+    {
+      "name": "submit",
+      "value": "提交"
+    },
+    {
+      "name": "title",
+      "value": "标题"
+    },
+    {
+      "name": "contact_us",
+      "value": "联系我们"
+    },
+    {
+      "name": "upgrade",
+      "value": "升级"
+    },
+    {
+      "name": "set_user_agreement",
+      "value": "用户协议"
+    },
+    {
+      "name": "set_privacy_policy",
+      "value": "隐私政策"
+    },
+    {
+      "name": "read_media",
+      "value": "允许应用程序读取设备上的图片文件"
+    },
+    {
+      "name": "write_media",
+      "value": "允许应用程序写入图片文件"
+    },
+    {
+      "name": "sign",
+      "value": "签名"
+    },
+    {
+      "name": "notice_notice",
+      "value": "通知公告"
+    },
+    {
+      "name": "expert_evaluation",
+      "value": "专家评价"
+    },
+    {
+      "name": "ca_convenient_processing",
+      "value": "CA便捷办理"
+    },
+    {
+      "name": "settlement_of_labor_remuneration",
+      "value": "劳务报酬结算"
+    },
+    {
+      "name": "expert_information",
+      "value": "专家信息"
+    },
+    {
+      "name": "consultation_and_complaints",
+      "value": "咨询投诉"
+    },
+    {
+      "name": "bid_evaluation_notice",
+      "value": "评标通知"
+    },
+    {
+      "name": "laws_and_regulations",
+      "value": "法律法规"
+    },
+    {
+      "name": "policy_release",
+      "value": "政策发布"
+    },
+    {
+      "name": "theoretical_pragmatism",
+      "value": "理论务实"
+    },
+    {
+      "name": "electronic_bidding_and_tendering",
+      "value": "电子招投标"
+    },
+    {
+      "name": "case_analysis",
+      "value": "案例分析"
+    },
+    {
+      "name": "video_zone",
+      "value": "视频专区"
+    },
+    {
+      "name": "read_zone",
+      "value": "阅读专区"
+    },
+    {
+      "name": "free_training",
+      "value": "免费培训"
+    },
+    {
+      "name": "online_training",
+      "value": "在线培训"
+    },
+    {
+      "name": "recorded_courses",
+      "value": "录播课程"
+    },
+    {
+      "name": "all",
+      "value": "全部"
+    },
+    {
+      "name": "latest_course_notice",
+      "value": "最新课程通知"
+    },
+    {
+      "name": "premium_training",
+      "value": "精品培训"
+    },
+    {
+      "name": "popular_courses",
+      "value": "热门课程"
+    },
+    {
+      "name": "exam_notice",
+      "value": "考试通知"
+    },
+    {
+      "name": "retest",
+      "value": "重新测试"
+    },
+    {
+      "name": "review_of_test_questions",
+      "value": "试题回顾"
+    },
+    {
+      "name": "historical_records",
+      "value": "历史记录"
+    },
+    {
+      "name": "begin_the_exam",
+      "value": "开始考试"
+    },
+    {
+      "name": "register",
+      "value": "注 册"
+    },
+    {
+      "name": "remember_pass",
+      "value": "记住密码"
+    },
+    {
+      "name": "forget_pass",
+      "value": "忘记密码"
+    },
+    {
+      "name": "filing_no",
+      "value": "辽ICP备18015387号-7A"
+    },
+    {
+      "name": "registerAndLogin",
+      "value": "注册并登录"
+    },
+    {
+      "name": "lost_pass",
+      "value": "忘记密码"
+    },
+    {
+      "name": "permission_LOCATION",
+      "value": "签到需要获取您设备的位置信息"
+    },
+    {
+      "name": "reSign",
+      "value": "重新签名"
+    },
+    {
+      "name": "reason_for_taking_leave",
+      "value": "请假原因"
+    },
+    {
+      "name": "input_leave_content_placeholder",
+      "value": "请输入请假原因"
+    },
+    {
+      "name": "online_leave_request",
+      "value": "在线请假"
+    },
+    {
+      "name": "project_cloud_signature_processing",
+      "value": "项目云签章办理"
+    },
+    {
+      "name": "project_evaluation",
+      "value": "项目评价"
+    },
+    {
+      "name": "view_my_review",
+      "value": "查看我的评价"
+    },
+    {
+      "name": "share",
+      "value": "分享"
+    },
+    {
+      "name": "appeal_details",
+      "value": "申诉详情"
+    },
+    {
+      "name": "publish_an_appeal",
+      "value": "发表申诉"
+    },
+    {
+      "name": "reasons_for_appeal",
+      "value": "申诉原因"
+    },
+    {
+      "name": "input_appeal_content_placeholder",
+      "value": "请输入您的申诉原因"
+    },
+    {
+      "name": "annual_evaluation",
+      "value": "年度评价"
+    },
+    {
+      "name": "overall_participation_in_the_evaluation",
+      "value": "总体参评"
+    },
+    {
+      "name": "reward_bonus_points",
+      "value": "奖励加分"
+    },
+    {
+      "name": "other_deduction_points",
+      "value": "其他扣分"
+    },
+    {
+      "name": "illegal_activities",
+      "value": "专家违法行为"
+    },
+    {
+      "name": "apply_for_bonus_points",
+      "value": "申请奖励加分"
+    },
+    {
+      "name": "cloud_signature_processing",
+      "value": "云签章便捷办理"
+    },
+    {
+      "name": "next",
+      "value": "下一步"
+    },
+    {
+      "name": "order_management",
+      "value": "订单管理"
+    },
+    {
+      "name": "order_info",
+      "value": "订单详情"
+    },
+    {
+      "name": "ukey_processing",
+      "value": "CA便捷办理"
+    }
+  ]
+}

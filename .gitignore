@@ -1,0 +1,41 @@
+# 构建系统
+.hvigor/
+.hvigor_proxy/
+build/
+.cxx/
+*.hcp
+
+# 依赖管理
+oh_modules/
+node_modules/
+oh-package-lock.json5
+package-lock.json
+
+# IDE
+.idea/
+*.iml
+.local
+*.swp
+*.swo
+*~
+
+# 项目特定文件
+.preview/
+.test/
+local.properties
+*.keystore
+*.p12
+*.jks
+
+# 系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+*.tmp
+*.temp

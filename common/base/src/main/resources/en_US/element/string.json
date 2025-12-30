@@ -1,0 +1,169 @@
+{
+  "string": [
+    {
+      "name": "all_search",
+      "value": "Global Search"
+    },
+    {
+      "name": "search",
+      "value": "Search"
+    },
+    {
+      "name": "refresh_success",
+      "value": "Refresh Successful"
+    },
+    {
+      "name": "save_success",
+      "value": "Save Successful"
+    },
+    {
+      "name": "input_user",
+      "value": "Pls enter your username"
+    },
+    {
+      "name": "input_pass",
+      "value": "Pls enter your password"
+    },
+    {
+      "name": "login",
+      "value": "Login"
+    },
+    {
+      "name": "logining",
+      "value": "Logging in..."
+    },
+    {
+      "name": "login_success",
+      "value": "Login Successful"
+    },
+    {
+      "name": "tips",
+      "value": "Warm Prompt"
+    },
+    {
+      "name": "yesbtn",
+      "value": "Confirm"
+    },
+    {
+      "name": "nobtn",
+      "value": "Cancel"
+    },
+    {
+      "name": "save",
+      "value": "Save"
+    },
+    {
+      "name": "nopage",
+      "value": "Coming Soon"
+    },
+    {
+      "name": "cfg_err",
+      "value": "Load Error"
+    },
+    {
+      "name": "vertip",
+      "value": "Already the latest version"
+    },
+    {
+      "name": "notice_title",
+      "value": "Notice"
+    },
+    {
+      "name": "common_app",
+      "value": "My App"
+    },
+    {
+      "name": "edit_app",
+      "value": "Edit App"
+    },
+    {
+      "name": "add_app",
+      "value": "Add App"
+    },
+    {
+      "name": "all_app",
+      "value": "All app"
+    },
+    {
+      "name": "add_btn",
+      "value": "Add"
+    },
+    {
+      "name": "added_btn",
+      "value": "Added"
+    },
+    {
+      "name": "setting_title",
+      "value": "Settings"
+    },
+    {
+      "name": "dark_mode",
+      "value": "Dark Mode"
+    },
+    {
+      "name": "lang_setting",
+      "value": "Languages"
+    },
+    {
+      "name": "dark_tip",
+      "value": "Automatically switch between dark and light modes based on system settings after enabling."
+    },
+    {
+      "name": "lang_tip",
+      "value": "Automatically sync language with system settings after enabling."
+    },
+    {
+      "name": "follow_system",
+      "value": "Follow system"
+    },
+    {
+      "name": "lang_switch_tip",
+      "value": "Switch to "
+    },
+    {
+      "name": "request_error",
+      "value": "Network Error "
+    },
+    {
+      "name": "request_timeout",
+      "value": "Network request timeout"
+    },
+    {
+      "name": "request_err_401",
+      "value": "Authentication failed, unable to access system resources"
+    },
+    {
+      "name": "request_err_403",
+      "value": "No permission for the resources"
+    },
+    {
+      "name": "request_err_404",
+      "value": "Requested resource not found"
+    },
+    {
+      "name": "request_err_500",
+      "value": "Internal server error"
+    },
+    {
+      "name": "request_err_none",
+      "value": "Unknown system error"
+    },
+    {
+      "name": "to_login_tips",
+      "value": "The login session has expired. Please log in again!"
+    },
+    {
+      "name": "re_login",
+      "value": "To login"
+    },
+    {
+      "name": "login_timeout",
+      "value": "Session has expired. Pls login again"
+    },
+
+    {
+      "name": "query",
+      "value": "query"
+    }
+  ]
+}

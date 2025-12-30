@@ -1,0 +1,183 @@
+{
+  "routerMap": [
+    {
+      "name": "systemSetting",
+      "pageSourceFile": "src/main/ets/pages/system/SystemSetting.ets",
+      "buildFunction": "SystemSettingBuilder",
+      "data": { }
+    },
+    {
+      "name": "WebViewInfoPage",
+      "pageSourceFile": "src/main/ets/pages/home/ZJ_WebViewInfoPage.ets",
+      "buildFunction": "WebViewInfoPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "AgreementWebViewInfoPage",
+      "pageSourceFile": "src/main/ets/pages/bidEvaluationNotice/ZJ_AgreementWebViewInfoPage.ets",
+      "buildFunction": "AgreementWebViewInfoPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "LostPassword",
+      "pageSourceFile": "src/main/ets/pages/system/LostPassword.ets",
+      "buildFunction": "LostPasswordBuilder",
+      "data": { }
+    },
+    {
+      "name": "BidEvaluationNoticeListPage",
+      "pageSourceFile": "src/main/ets/pages/bidEvaluationNotice/ZJ_BidEvaluationNoticeListPage.ets",
+      "buildFunction": "BidEvaluationNoticeListPageBuilder",
+      "data": { }
+
+    },
+    {
+      "name": "SignPage",
+      "pageSourceFile": "src/main/ets/pages/mine/ZJ_SignPage.ets",
+      "buildFunction": "SignPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "AddOnlineLeavePage",
+      "pageSourceFile": "src/main/ets/pages/bidEvaluationNotice/ZJ_AddOnlineLeavePage.ets",
+      "buildFunction": "AddOnlineLeavePageBuilder",
+      "data": { }
+    },
+    {
+      "name": "ExpertEvaluationMainPage",
+      "pageSourceFile": "src/main/ets/pages/expertEvaluation/ZJ_ExpertEvaluationMainPage.ets",
+      "buildFunction": "ExpertEvaluationMainPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "HandleTempCAPage",
+      "pageSourceFile": "src/main/ets/pages/bidEvaluationNotice/ZJ_HandleTempCAPage.ets",
+      "buildFunction": "HandleTempCAPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "ProjectEvaluationMainPage",
+      "pageSourceFile": "src/main/ets/pages/expertEvaluation/ZJ_ProjectEvaluationMainPage.ets",
+      "buildFunction": "ProjectEvaluationMainPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "EvaluationDetailsPage",
+      "pageSourceFile": "src/main/ets/pages/expertEvaluation/ZJ_EvaluationDetailsPage.ets",
+      "buildFunction": "EvaluationDetailsPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "GrievanceDetailsPage",
+      "pageSourceFile": "src/main/ets/pages/expertEvaluation/ZJ_GrievanceDetailsPage.ets",
+      "buildFunction": "GrievanceDetailsPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "AddNewAppealPage",
+      "pageSourceFile": "src/main/ets/pages/expertEvaluation/ZJ_AddNewAppealPage.ets",
+      "buildFunction": "AddNewAppealPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "AnnualEvaluationMainPage",
+      "pageSourceFile": "src/main/ets/pages/annualEvaluation/ZJ_AnnualEvaluationMainPage.ets",
+      "buildFunction": "AnnualEvaluationMainPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "OverallParticipationInTheEvaluationPage",
+      "pageSourceFile": "src/main/ets/pages/annualEvaluation/ZJ_OverallParticipationInTheEvaluationPage.ets",
+      "buildFunction": "OverallParticipationInTheEvaluationPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "RewardBonusPointsPage",
+      "pageSourceFile": "src/main/ets/pages/annualEvaluation/ZJ_RewardBonusPointsPage.ets",
+      "buildFunction": "RewardBonusPointsPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "OtherDeductionPointsPage",
+      "pageSourceFile": "src/main/ets/pages/annualEvaluation/ZJ_OtherDeductionPointsPage.ets",
+      "buildFunction": "OtherDeductionPointsPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "IllegalActivitiesPage",
+      "pageSourceFile": "src/main/ets/pages/annualEvaluation/ZJ_IllegalActivitiesPage.ets",
+      "buildFunction": "IllegalActivitiesPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "ApplyForBonusPointsPage",
+      "pageSourceFile": "src/main/ets/pages/annualEvaluation/ZJ_ApplyForBonusPointsPage.ets",
+      "buildFunction": "ApplyForBonusPointsPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "CAHandleMainPage",
+      "pageSourceFile": "src/main/ets/pages/ca/ZJ_CAHandleMainPage.ets",
+      "buildFunction": "CAHandleMainPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "CloudCAHandlePage",
+      "pageSourceFile": "src/main/ets/pages/ca/ZJ_CloudCAHandlePage.ets",
+      "buildFunction": "CloudCAHandlePageBuilder",
+      "data": { }
+    }, {
+      "name": "CloudCAHandlePayPage",
+      "pageSourceFile": "src/main/ets/pages/ca/ZJ_CloudCAHandlePayPage.ets",
+      "buildFunction": "CloudCAHandlePayPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "CAOrderMainPage",
+      "pageSourceFile": "src/main/ets/pages/order/ZJ_CAOrderMainPage.ets",
+      "buildFunction": "CAOrderMainPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "CloudSignatureOrderDetailsPage",
+      "pageSourceFile": "src/main/ets/pages/order/ZJ_CloudSignatureOrderDetailsPage.ets",
+      "buildFunction": "CloudSignatureOrderDetailsPageBuilder",
+      "data": { }
+    },{
+      "name": "UKeyCAHandlePage",
+      "pageSourceFile": "src/main/ets/pages/ca/ZJ_UKeyCAHandlePage.ets",
+      "buildFunction": "UKeyCAHandlePageBuilder",
+      "data": { }
+    },
+    {
+      "name": "UKeyCAPdfPage",
+      "pageSourceFile": "src/main/ets/pages/ca/ZJ_UKeyCAPdfPage.ets",
+      "buildFunction": "UKeyCAPdfPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "UKeyCAHandlePayPage",
+      "pageSourceFile": "src/main/ets/pages/ca/ZJ_UKeyCAHandlePayPage.ets",
+      "buildFunction": "UKeyCAHandlePayPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "UKeyOrderDetailsPage",
+      "pageSourceFile": "src/main/ets/pages/order/ZJ_UKeyOrderDetailsPage.ets",
+      "buildFunction": "UKeyOrderDetailsPageBuilder",
+      "data": { }
+    },
+    {
+      "name": "AddressManagePage",
+      "pageSourceFile": "src/main/ets/pages/address/ZJ_AddressManagePage.ets",
+      "buildFunction": "AddressManagePageBuilder",
+      "data": { }
+    },
+    {
+      "name": "EditAddressPage",
+      "pageSourceFile": "src/main/ets/pages/address/ZJ_EditAddressPage.ets",
+      "buildFunction": "EditAddressPageBuilder",
+      "data": { }
+    }
+  ]
+}

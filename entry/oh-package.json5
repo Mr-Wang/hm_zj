@@ -1,0 +1,14 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "jbase": "file:../common/base",
+    "scap": "file:../dependencies/cfca-scap-5.6.2.har",
+    "@tencent/wechat_open_sdk": "^1.0.11"
+  }
+}
+

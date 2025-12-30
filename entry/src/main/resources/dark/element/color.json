@@ -1,0 +1,24 @@
+{
+  "color": [
+    {
+      "name": "start_back",
+      "value": "#000000"
+    },
+    {
+      "name": "main_color",
+      "value": "#2A7AFD"
+    },
+    {
+      "name": "line_blue_color",
+      "value": "#18C4F1"
+    },
+    {
+      "name": "back_color",
+      "value": "#111214"
+    },
+    {
+      "name": "red_color",
+      "value": "#e03636"
+    }
+  ]
+}
